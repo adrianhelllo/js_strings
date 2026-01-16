@@ -7,4 +7,5 @@ console.log(myStringVariable.lastIndexOf("at")); // While indexof returns the fi
 console.log(myStringVariable.slice(5, 8)); // Like slicing in python
 console.log(myStringVariable.toLowerCase()); // uppercase
 console.log(myStringVariable.toUpperCase()); // thye same
-console.log(myStringVariable.includes("mat")) // in keyword
+console.log(myStringVariable.includes("mat")); // in keyword
+console.log(myStringVariable.split("a")); // the same as in pytnon
